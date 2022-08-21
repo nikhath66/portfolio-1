@@ -3,7 +3,7 @@ import ExperienceItem from "./ExperienceItem";
 
 const Experience = () => {
   return (
-    <div className="experience-page">git config --global --unset credential.helper
+    <div className="experience-page">
       <h2 className="heading">Experience</h2>
 
       <ExperienceItem
